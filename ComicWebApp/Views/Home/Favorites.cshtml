@@ -1,0 +1,83 @@
+﻿@{
+    ViewData["Title"] = "Favorites";
+}
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/css/SlideShow.css" asp-append-version="true" />
+    <style>
+        p{
+            color:white;
+        }
+        image{
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+
+</head>
+
+<div class="text-center">
+   <h1>Favourite Comics</h1>
+
+</div>
+<body>
+    <!-- Slideshow container -->
+    <div class="slideshow-container">
+
+        <!-- Full-width images with number and caption text -->
+        <div class="mySlides fade">
+           
+            <img src="~/download.jpg" style="width:100%" />
+            <p class="text">Wonder Woman is one of my all-time favorite characters, <br />
+                her superhuman strength and impressive fighting skills are the best.<br />
+                What I love most about her is her unwavering sense of justice and her dedication to helping others.<br />
+               
+                She always strives to find peaceful solutions to conflicts whenever possible. <br />
+                A symbol of female empowerment,<br />
+                breaking down stereotypes and showing that women can be just as strong and capable as men. <br />
+                Overall, Wonder Woman is a truly inspiring character who embodies some of the best qualities that we can all strive to emulate.</p>
+        </div>
+
+        <div class="mySlides fade">
+          
+            <img src="~/th (6).jpg" style="width:100%" />
+            <p class="text">Batman and Robin are some of my favorite characters in the DC Comics universe.<br />  Batman uses his intelligence, physical prowess, <br />
+                and an array of gadgets to take down villains and protect the innocent.
+                <br />Robin, on the other hand, is Batman's young protégé and sidekick.<br />
+                He provides a youthful energy and enthusiasm to the dynamic duo, <br />
+                and he often helps Batman see the lighter side of life. <br />
+                They make a formidable team, and they have inspired generations of fans with their bravery,<br />
+                intelligence, and unwavering dedication to justice. Whether they are facing off against the Joker, <br />
+                the Riddler, or any other nefarious villain,<br />
+            They always rise to the challenge, proving that good will always triumph over evil.</p>
+        </div>
+
+        <div class="mySlides fade">
+            
+            <img src="~/th (7).jpg" style="width:100%" />
+            <p class="text">
+                Deadpool is one of my favorite characters in the Marvel Comics universe.<br />
+                A mercenary with a twisted sense of humor and a love for violence, <br />
+                but he also has a surprising depth and vulnerability that makes him stand out from other antiheroes. <br />
+                Deadpool is unique because of his ability to break the fourth wall and speak directly to the audience.<br />
+                Thus enabling him to comment on the absurdity of the superhero genre and<br />
+                give a much-needed dose of humor in an often-serious world.</p>
+
+        
+        <!-- Next and previous buttons -->
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+    </div>
+    <br>
+
+    <!-- The dots/circles -->
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+    </div>
+
+    <script src="~/js/SlideShow.js" asp-append-version="true"></script>
+</body>
