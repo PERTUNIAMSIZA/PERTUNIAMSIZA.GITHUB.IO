@@ -1,8 +1,0 @@
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\ComicWebApp.exe
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\appsettings.json
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\libman.json
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\ComicWebApp.dll
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\ComicWebApp.deps.json
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\ComicWebApp.runtimeconfig.json
-C:\Users\NonhlanhlaMsiza\source\repos\ComicWebApp\ComicWebApp\obj\Release\net6.0\PubTmp\Out\ComicWebApp.pdb
