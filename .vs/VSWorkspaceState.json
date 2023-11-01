@@ -1,9 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github",
-    "\\.github\\workflows"
+    "\\css",
+    "\\js"
   ],
-  "SelectedNode": "\\pertunia.html",
+  "SelectedNode": "\\css\\sper.css",
   "PreviewInSolutionExplorer": false
 }
